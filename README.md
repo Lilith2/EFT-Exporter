@@ -1,6 +1,9 @@
 # EFT-Exporter
  Notepad++ plugin to format txt into SDK.cs lone format
 
+ #### Known Bug
+ Export Selection as individual file will accept infinite classes and put them into file which names the file every single class name at once seperate by underscores. Not a big deal for small selections but will screw you with big ones.
+
 # Install Steps
 - Find your Notepad++\plugins folder
 - Create folder with same name as DLL
