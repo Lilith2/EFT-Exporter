@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "W:\\Code Editor Project\\plugintemplate-4.4\\",
+  "WorkspaceRootPath": "C:\\Users\\ShalltearMoist\\Documents\\GitHub\\EFT-Exporter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D04DBD5-E12E-44E0-A683-6F43F21D533B}|NppPluginTemplate.vcxproj|W:\\Code Editor Project\\plugintemplate-4.4\\src\\PluginDefinition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9D04DBD5-E12E-44E0-A683-6F43F21D533B}|NppPluginTemplate.vcxproj|solutionrelative:src\\PluginDefinition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9D04DBD5-E12E-44E0-A683-6F43F21D533B}|vs.proj\\NppPluginTemplate.vcxproj|C:\\Users\\ShalltearMoist\\Documents\\GitHub\\EFT-Exporter\\src\\PluginDefinition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D04DBD5-E12E-44E0-A683-6F43F21D533B}|vs.proj\\NppPluginTemplate.vcxproj|solutionrelative:src\\PluginDefinition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PluginDefinition.cpp",
-              "DocumentMoniker": "W:\\Code Editor Project\\plugintemplate-4.4\\src\\PluginDefinition.cpp",
+              "DocumentMoniker": "C:\\Users\\ShalltearMoist\\Documents\\GitHub\\EFT-Exporter\\src\\PluginDefinition.cpp",
               "RelativeDocumentMoniker": "src\\PluginDefinition.cpp",
-              "ToolTip": "W:\\Code Editor Project\\plugintemplate-4.4\\src\\PluginDefinition.cpp",
+              "ToolTip": "C:\\Users\\ShalltearMoist\\Documents\\GitHub\\EFT-Exporter\\src\\PluginDefinition.cpp",
               "RelativeToolTip": "src\\PluginDefinition.cpp",
-              "ViewState": "AQIAAM4AAAAAAAAAAAAjwN8AAAAAAAAA",
+              "ViewState": "AgIAAGICAAAAAAAAAAAAAHsCAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-30T20:22:56.394Z",
               "EditorCaption": ""
